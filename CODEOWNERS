@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @wf7968
+/src/backend/database.py      @wf7968
+/src/backend/routers/auth.py  @wf7968
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @wf7968
